@@ -20,4 +20,4 @@ WanderLust is a full-stack web application. It allows users to **explore rental 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
 - **Templating**: EJS
-- **Authentication** (optional if you add it later): Passport.js
+- **Authentication** : Passport.js
