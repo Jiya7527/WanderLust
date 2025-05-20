@@ -9,8 +9,7 @@ WanderLust is a full-stack web application. It allows users to **explore rental 
 - Add your own listings as a host
 - Edit or delete your listings
 - Responsive design for mobile and desktop
-- Integrated map support
-- User-friendly forms and validation
+
 
 ---
 
@@ -20,4 +19,4 @@ WanderLust is a full-stack web application. It allows users to **explore rental 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
 - **Templating**: EJS
-- **Authentication** : Passport.js
+
